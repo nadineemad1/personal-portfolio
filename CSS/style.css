@@ -1,0 +1,190 @@
+
+*{ 
+    box-sizing:border-box;
+}
+
+.clear-fix{
+    clear:both;
+}
+.float-left{
+    float:left;
+}
+.float-right{
+    float:right;
+}
+.container{
+    margin:0 auto;
+    background-color:rgb(236, 249, 255);
+    border-radius:20px;
+    padding: 20px 0;
+}
+
+.intro-container{
+    width:80%;
+    margin:0 auto;
+    background-color: rgb(28, 75, 132);
+    border-radius:20px;
+    padding:25px 0 ;
+
+
+}
+.intro-container h1{
+    color:white;
+}
+
+.intro-container button{
+    background-color:rgb(255,255,255,0.1);
+    color:white;
+    border:solid 0.1px rgb(255,255,255,0.3) ;
+    padding:10px;
+    margin:0 2px;
+    border-radius:20px;
+
+}
+.intro-container h3{
+    color:rgb(176, 206, 242)
+}
+
+.text-center{
+    text-align:center;
+}
+
+img{
+    width:100%;
+}
+
+.about-container{
+    background-color:white;
+    width:80%;
+    margin: 10px auto;
+    border-radius:20px;
+    padding:10px 30px;
+}
+.profile-image{
+    width:15%
+}
+hr{
+    color:lightblue;
+}
+.profile-image img{
+    width:100%;
+    border:white 2px solid;
+    border-radius:50%;
+    margin:10px 0;
+
+}
+.profile-text{
+    width:85%;
+    margin:15px auto;
+    padding:15px;
+
+}
+
+.profile-text button{
+  color:white;
+  background-color:rgb(28, 75, 132);
+  border:none;
+  border-radius:10px;
+  padding:15px;
+
+}
+.skill-container{
+    width:80%;
+    background-color:white;
+    margin:10px auto;
+    border-radius:20px;
+    padding:10px 30px;
+
+}
+.skill-container h2 {
+    color:rgb(28, 75, 132);
+}
+.about-container h2 {
+    color:rgb(28, 75, 132);
+}
+.experience-container h2 {
+    color:rgb(28, 75, 132);
+}
+
+.layout-technologies{
+    width:20%;
+    background-color:rgb(194, 235, 249);
+    border:1px solid rgb(179, 220, 235);
+    border-radius:10px;
+    padding: 10px 30px;
+    margin:0 25px ;
+    
+}
+
+.experience-container{
+    width:80%;
+    background-color:white;
+    margin: 10px auto;
+    border-radius:20px;
+    padding:10px 30px;
+}
+
+.experience-image{
+    width:7%;
+
+}
+
+.experience-image img{
+    width:100%;
+    border:solid 1px rgb(208, 240, 251);
+    border-radius:10px;
+    margin:20px 0;
+}
+
+.experience-info{
+    width:93%;
+    margin:5px 0;
+    padding:0 15px;
+
+}
+
+.experience{
+    background-color:rgb(237, 250, 255);
+    border:solid 0.5px rgb(183, 183, 183);
+    border-left:solid 5px rgb(28, 75, 132);
+    border-radius:20px;
+    padding:0 20px;
+    margin: 20px 0;
+}
+
+.contact-container{
+    width:80%;
+    background-color:rgb(28, 75, 132);
+    margin: 10px auto;
+    border-radius:20px;
+    padding:10px 30px;
+}
+.contact-container h2 ,.contact-container p{
+    color:white;
+}
+.contact-container button{
+    background-color:rgb(255,255,255,0.1);
+    color:white;
+    border:solid 0.1px rgb(255,255,255,0.3) ;
+    padding:10px;
+    margin:0 2px;
+    border-radius:10px;
+
+}
+.copyrights{
+    width:80%;
+    background-color:rgb(5, 26, 50);
+    margin: 10px auto;
+    border-radius:20px;
+    padding:10px 30px;
+}
+
+.copyrights p{
+    color:white;
+}
+.copyrights span{
+    color:rgb(50, 113, 189);
+}
+span{
+    color:rgb(28, 75, 132);
+}
